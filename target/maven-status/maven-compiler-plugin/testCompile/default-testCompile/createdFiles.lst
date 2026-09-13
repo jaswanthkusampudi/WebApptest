@@ -1,0 +1,6 @@
+com/automation/base/BaseClass.class
+com/automation/pages/sample.class
+com/automation/pages/RegistrationPage.class
+com/automation/pages/ElectronicsPage.class
+automationtest/FirstTest.class
+com/automation/pages/CreateCartPage.class
