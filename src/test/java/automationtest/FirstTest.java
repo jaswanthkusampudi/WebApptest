@@ -22,7 +22,7 @@ public class FirstTest extends BaseClass {
 		electronics.addProductToCart();
 		cart.selectCountry();
 		cart.checkout();
-		System.out.println("Login Test");
+		System.out.println("Good Morning");
 		closeBrowser();
 		
 		
