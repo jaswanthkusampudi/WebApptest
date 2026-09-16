@@ -34,7 +34,7 @@ public class RegistrationPage {
 		driver.findElement(password).sendKeys("Hariram@" + num);
 		driver.findElement(cpassword).sendKeys("Hariram@" + num);
 		driver.findElement(registerButton).click();
-
+		System.out.println("Register button clicked successfully");
 	}
 
 }
