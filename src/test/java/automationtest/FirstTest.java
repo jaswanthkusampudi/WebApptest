@@ -1,5 +1,7 @@
 package automationtest;
 
+import java.io.IOException;
+
 import org.testng.annotations.Test;
 
 import com.automation.base.BaseClass;
@@ -10,7 +12,7 @@ import com.automation.pages.RegistrationPage;
 public class FirstTest extends BaseClass {
 
 	@Test
-	public void launch() throws InterruptedException {
+	public void launch() throws InterruptedException, IOException {
 
 		launchBrowser();
 
