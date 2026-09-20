@@ -24,7 +24,7 @@ public class FirstTest extends BaseClass {
 		electronics.addProductToCart();
 		cart.selectCountry();
 		cart.checkout();
-		System.out.println("Web Testing 123");
+		System.out.println("Web Application");
 		closeBrowser();
 		
 		
