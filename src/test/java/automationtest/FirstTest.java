@@ -24,7 +24,7 @@ public class FirstTest extends BaseClass {
 		electronics.addProductToCart();
 		cart.selectCountry();
 		cart.checkout();
-		System.out.println("New Message");
+		System.out.println("New Message changed");
 		closeBrowser();
 		
 		
